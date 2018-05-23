@@ -1,0 +1,12 @@
+﻿Genrika - generika znamená, že v dané třídě můžeme používat libovolný objekt
+	- typickým příkladem je list, v něm může existovat jakýkoli objekt
+	- Poznáme podle špičatých závorek List<>
+
+Pole
++Velice rychlá
+-Nemají dynamickou velikost
+
+Generické kolekce
++Mnoho podob - různá chování (List, Stack, Dictionary) => větší flexibilita
++Mnoho pomocných metod (např. Contain (obsahuje?))
+-Pomalejší než pole
