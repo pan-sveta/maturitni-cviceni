@@ -1,0 +1,6 @@
+Split - Rozdìlí string na pole stringù na základì delícího znaku
+StartsWith - Vrací bool na základš dotoh, jestli string zaèíná námi zvoleným øetezcem
+EndsWith - To samý ale na konci
+IndexOf - vrátí první index námi hledáného charu ve stringu
+LastIndexOf - vrátí poslední index námi hledáného charu ve stringu
+StringBuilder - nástroj k postupné tvorbì stringu, umí pøidávat (metoda Append), vkládat na pozici (metoda Insert), atd.
