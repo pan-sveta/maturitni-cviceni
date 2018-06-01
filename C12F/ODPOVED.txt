@@ -1,0 +1,22 @@
+2.A
+K extraxi kýžených textových øetìzcù z textu na základì námi napsaných "patternù" (šablon)
+
+2.B
+System.Text.RegulatExpressions
+
+2.C
+\d - èíslo
+\D - neèíslo
+\w - alanumerický znak
+\w - nealfanumerický znak
+\s - bílý znak (enter, mezera, etc.)
+\S - ne-blý znak (nic rasistickýho ffs)
+
+2.D
+Nedìlat je z hlavy protože to neumí snad nikdo xd. A používat online nástroje s okamžitou odezvou aby jsme pøedešli chybám.
+Nemám tucha jaký zásady.
+
+2.E
+IsMatch - Vrátí true/false jestli nastala jedna nebo více shod.
+Match - Vrátí první shodu v objektu Match
+Matches - Vrátí MatchCollection. Ve své podstatì se jendá o "list" s Matchi
